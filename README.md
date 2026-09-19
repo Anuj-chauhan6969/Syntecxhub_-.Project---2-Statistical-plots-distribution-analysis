@@ -258,7 +258,7 @@ Possible improvements include:
 
 ## 👨‍💻 Author
 
-**Ankit Chauhan**
+**Anuj Chauhan**
 
 ### Project
 
